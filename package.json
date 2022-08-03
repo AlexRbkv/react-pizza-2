@@ -2,7 +2,7 @@
   "name": "react-pizza-v2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alexrbkv.github.io/react-pizza-2/",
+  "homepage": "https://react-pizza-2-zeta.vercel.app/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.2",
     "@testing-library/jest-dom": "^5.16.4",
